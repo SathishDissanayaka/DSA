@@ -9,7 +9,7 @@ public class Main {
 
 		public Stack(int maxSize) {
 			this.maxSize = maxSize;
-			stackArray = new double[maxSize];
+			this.stackArray = new double[maxSize];
 			top = -1;
 		}
 
