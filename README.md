@@ -1,2 +1,2 @@
 # DSA
-sample codes
+Data Structures are here
